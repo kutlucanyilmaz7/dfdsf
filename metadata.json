@@ -1,0 +1,6 @@
+{
+  "name": "CroopsAI",
+  "description": "ChatGPT-like AI platform with advanced AI integration, credit system, and PayTR/Akbank payment support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Chat", "Credit System", "Online Payments"]
+}
